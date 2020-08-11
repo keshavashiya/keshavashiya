@@ -48,9 +48,9 @@ Hi, I'm Keshav Ashiya, a passionate self-taught frontEnd web developer from Indi
 
 <a href="https://github.com/keshavashiya">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=keshavashiya&repo=github-readme-stats&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=keshavashiya&repo=covid19india-react&theme=radical" />
 </a>    
 <a href="https://github.com/keshavashiya/keshavashiya.github.io">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=keshavashiya&repo=anuraghazra.github.io&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=keshavashiya&repo=keshavashiya.github.io&theme=radical" />
 </a>
