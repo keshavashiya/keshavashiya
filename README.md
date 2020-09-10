@@ -21,7 +21,7 @@ Hi, I'm Keshav Ashiya, a passionate self-taught frontEnd web developer from Indi
 - 💬 Ask me about anything [here](https://github.com/keshavashiya/keshavashiya/issues)
 
 <a href="https://github.com/keshavashiya">
-  <img align="center" src="https://github-trophy.vercel.app/?username=keshavashiya&theme=onedark" alt="Keshav's github trophy" />
+  <img align="center" src="https://github-trophy.vercel.app/?username=keshavashiya&theme=onedark&column=7" alt="Keshav's github trophy" />
 </a>
 
 **Languages and Tools:**  
