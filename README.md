@@ -50,11 +50,9 @@ Hi, I'm Keshav Ashiya, a passionate self-taught frontEnd web developer from Indi
   <img align="center" src="https://github-readme-stats.keshavashiya.vercel.app/api/top-langs/?username=keshavashiya&layout=compact&theme=radical" />
 </a>
 
-<a href="https://github.com/keshavashiya/covid19india-react">
-  <!-- Change the `github-readme-stats.keshavashiya.vercel.app` to `github-readme-stats-list.vercel.app`  -->
+<!-- <a href="https://github.com/keshavashiya/covid19india-react">
   <img align="center" src="https://github-readme-stats.keshavashiya.vercel.app/api/pin/?username=covid19india&repo=covid19india-react&include_all_commits=true&show_icons=true&theme=radical" />
 </a>    
 <a href="https://github.com/keshavashiya/api">
-  <!-- Change the `github-readme-stats.keshavashiya.vercel.app` to `github-readme-stats-list.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.keshavashiya.vercel.app/api/pin/?username=covid19india&repo=api&include_all_commits=true&show_icons=true&theme=radical" />
-</a>
+</a> -->
