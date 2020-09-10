@@ -1,13 +1,13 @@
 ### Hi there, I'm [Keshav Ashiya!](https://keshavashiya.github.io) 👋
 
 <a href="https://codesandbox.io/u/keshavashiya">
-  <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+  <img align="left" alt="Keshav Ashiya | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>
 <a href="https://twitter.com/keshavashiya">
-  <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  <img align="left" alt="Keshav Ashiya | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 <a href="https://discord.gg/keshavashiya">
-  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+  <img align="left" alt="Keshav's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
 
 <br />
@@ -34,10 +34,10 @@ Hi, I'm Keshav Ashiya, a passionate self-taught frontEnd web developer from Indi
 
 <!--- 
   if you have forked this to use on your profile, 
-  Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
+  Change the `github-readme-stats.keshavashiya.vercel.app` to `github-readme-stats-list.vercel.app` 
 --->
 
-<!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+<!-- Change the `github-readme-stats.keshavashiya.vercel.app` to `github-readme-stats-list.vercel.app`  -->
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/keshavashiya/github-readme-stats)*
 
@@ -46,15 +46,15 @@ Hi, I'm Keshav Ashiya, a passionate self-taught frontEnd web developer from Indi
   <img align="center" src="https://github-readme-stats.keshavashiya.vercel.app/api?username=keshavashiya&show_icons=true&include_all_commits=true&theme=radical" alt="Keshav's github stats" />
 </a>
 <a href="https://github.com/keshavashiya">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <!-- Change the `github-readme-stats.keshavashiya.vercel.app` to `github-readme-stats-list.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.keshavashiya.vercel.app/api/top-langs/?username=keshavashiya&layout=compact&theme=radical" />
 </a>
 
 <a href="https://github.com/keshavashiya/covid19india-react">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <!-- Change the `github-readme-stats.keshavashiya.vercel.app` to `github-readme-stats-list.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.keshavashiya.vercel.app/api/pin/?username=covid19india&repo=covid19india-react&include_all_commits=true&show_icons=true&theme=radical" />
 </a>    
 <a href="https://github.com/keshavashiya/api">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <!-- Change the `github-readme-stats.keshavashiya.vercel.app` to `github-readme-stats-list.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.keshavashiya.vercel.app/api/pin/?username=covid19india&repo=api&include_all_commits=true&show_icons=true&theme=radical" />
 </a>
