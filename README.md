@@ -43,7 +43,7 @@ Hi, I'm Keshav Ashiya, a passionate self-taught frontEnd web developer from Indi
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.keshavashiya.vercel.app/api?username=keshavashiya&count_private=true&include_all_commits=true&theme=radical" />
-  <img src="https://github-readme-stats.keshavashiya.vercel.app/api/top-langs/?username=keshavashiya&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.keshavashiya.vercel.app/api/top-langs/?username=keshavashiya&layout=compact&theme=radical&langs_count=6" />
 </div>
 
 <!-- <a href="https://github.com/keshavashiya/github-readme-stats">
