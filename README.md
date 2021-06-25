@@ -6,7 +6,7 @@
 <a href="https://twitter.com/keshavashiya">
   <img align="left" alt="Keshav Ashiya | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-<a href="https://discord.gg/keshavashiya">
+<a href="https://discord.gg/9qXgzphsjH">
   <img align="left" alt="Keshav's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
 
