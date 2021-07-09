@@ -38,8 +38,10 @@ Hi, I'm Keshav Ashiya, a passionate self-taught frontEnd web developer from Indi
 --->
 
 <!-- Change the `github-readme-stats.keshavashiya.vercel.app` to `github-readme-stats-list.vercel.app`  -->
+<!-- 
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/keshavashiya/github-readme-stats)* -->
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/keshavashiya/github-readme-stats)*
+![snake gif](https://github.com/keshavashiya/keshavashiya/blob/output/github-contribution-grid-snake.svg)
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=keshavashiya&count_private=true&include_all_commits=true&theme=radical" />
