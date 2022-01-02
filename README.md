@@ -27,9 +27,9 @@ Hi, I'm Keshav Ashiya, a passionate self-taught frontEnd web developer from Indi
 - 👯 I’m looking to collaborate on [covid19india API](https://github.com/keshavashiya/api)
 - 💬 Ask me about anything [here](https://github.com/keshavashiya/keshavashiya/issues)
 
-<a href="https://github.com/keshavashiya">
+<!-- <a href="https://github.com/keshavashiya">
   <img align="center" src="https://github-trophy.vercel.app/?username=keshavashiya&theme=onedark" alt="Keshav's github trophy" />
-</a>
+</a> -->
 
 
 <!-- **Languages and Tools:**  
@@ -48,12 +48,14 @@ Hi, I'm Keshav Ashiya, a passionate self-taught frontEnd web developer from Indi
 <!-- 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/keshavashiya/github-readme-stats)* -->
 
-![snake gif](https://github.com/keshavashiya/keshavashiya/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake gif](https://github.com/keshavashiya/keshavashiya/blob/output/github-contribution-grid-snake.svg) -->
 
-<div>
+<!-- <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=keshavashiya&count_private=true&include_all_commits=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavashiya&layout=compact&theme=radical&langs_count=6" />
-</div>
+</div> -->
+
+<a href="https://app.daily.dev/keshavashiya"><img src="https://github.com/keshavashiya/keshavashiya/blob/master/devcard.svg" width="400" alt="Keshav Ashiya's Dev Card"/></a>
 
 <!-- <a href="https://github.com/keshavashiya/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=keshavashiya&show_icons=true&include_all_commits=true&theme=radical" alt="Keshav's github stats" />
