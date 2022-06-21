@@ -59,6 +59,11 @@ Hi, I'm Keshav Ashiya, a passionate self-taught frontEnd web developer from Indi
 
 # Latest posts
 <!-- daily.dev BOOKMARKS:START -->
+- [The Companion Widget](https://app.daily.dev/posts/wKf1R6kin?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
+- [4 Careers for People with Coding Backgrounds](https://app.daily.dev/posts/O4Je4n6QU?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
+- [React Miami Talk - Temporal for the Backend](https://app.daily.dev/posts/oFFZZ-ywI?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
+- [Using Ultra, the new React web framework](https://app.daily.dev/posts/uUK24CmAN?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
+- [Career Growth Speed, Deconstructed](https://app.daily.dev/posts/NRVQfikGB?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!-- <a href="https://github.com/keshavashiya/github-readme-stats">
