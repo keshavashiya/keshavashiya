@@ -27,6 +27,10 @@ Hi, I'm Keshav Ashiya, a passionate self-taught frontEnd web developer from Indi
 - 👯 I’m looking to collaborate on [covid19india API](https://github.com/keshavashiya/api)
 - 💬 Ask me about anything [here](https://github.com/keshavashiya/keshavashiya/issues)
 
+# Latest posts
+<!--  daily.dev BOOKMARKS:START -->
+<!--  daily.dev BOOKMARKS:END -->
+
 <!-- <a href="https://github.com/keshavashiya">
   <img align="center" src="https://github-trophy.vercel.app/?username=keshavashiya&theme=onedark" alt="Keshav's github trophy" />
 </a> -->
@@ -70,6 +74,3 @@ Hi, I'm Keshav Ashiya, a passionate self-taught frontEnd web developer from Indi
 <a href="https://github.com/keshavashiya/api">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=covid19india&repo=api&include_all_commits=true&show_icons=true&theme=radical" />
 </a> -->
-
-<!--  daily.dev BOOKMARKS:START -->
-<!--  daily.dev BOOKMARKS:END -->
