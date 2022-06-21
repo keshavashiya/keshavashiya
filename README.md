@@ -70,3 +70,6 @@ Hi, I'm Keshav Ashiya, a passionate self-taught frontEnd web developer from Indi
 <a href="https://github.com/keshavashiya/api">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=covid19india&repo=api&include_all_commits=true&show_icons=true&theme=radical" />
 </a> -->
+
+<!--  daily.dev BOOKMARKS:START -->
+<!--  daily.dev BOOKMARKS:END -->
