@@ -58,11 +58,11 @@ Hi, I'm Keshav Ashiya, a passionate self-taught frontEnd web developer from Indi
 <a href="https://app.daily.dev/keshavashiya"><img src="https://github.com/keshavashiya/keshavashiya/blob/master/devcard.svg" width="400" alt="Keshav Ashiya's Dev Card"/></a>
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Programming languages endorsed for server-side use at Meta](https://app.daily.dev/posts/3KujA7o_s?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [Building an HTTP Tunnel With WebSocket and Node.JS](https://app.daily.dev/posts/BX0Wxcddl?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [codecrafters-io/build-your-own-x: Master programming by recreating your favorite technologies from scratch.](https://app.daily.dev/posts/7QI2rqwnm?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [JSON Visio](https://app.daily.dev/posts/LLR_Zs7mR?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [My 2022 New Mac Setup](https://app.daily.dev/posts/JMRz5lKkG?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
-- [Building a REST API in Rust with Rhai and Actix Web](https://app.daily.dev/posts/VtQynGy2N?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!-- <a href="https://github.com/keshavashiya/github-readme-stats">
