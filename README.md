@@ -58,11 +58,11 @@ Hi, I'm Keshav Ashiya, a passionate self-taught frontEnd web developer from Indi
 <a href="https://app.daily.dev/keshavashiya"><img src="https://github.com/keshavashiya/keshavashiya/blob/master/devcard.svg" width="400" alt="Keshav Ashiya's Dev Card"/></a>
 
 <!-- daily.dev BOOKMARKS:START -->
+- [My developer workflow using WSL, tmux and Neovim](https://app.daily.dev/posts/b4H1O6Gmk?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [From A Dropout to A Core Contributor to Deno, Here’s The Story of My 10-year Programming Career](https://app.daily.dev/posts/k0O-CvG8-?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [My Neovim setup for React, TypeScript, Tailwind CSS, etc](https://app.daily.dev/posts/iIOJZ8joP?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [How To Use Multithreading in Node.js](https://app.daily.dev/posts/MIWI0Gr8Y?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [an open-source GitHub Copilot server](https://app.daily.dev/posts/CRG1ZtA3t?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
-- [Million](https://app.daily.dev/posts/0VsHu3er-?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!-- <a href="https://github.com/keshavashiya/github-readme-stats">
