@@ -58,11 +58,11 @@ Hi, I'm Keshav Ashiya, a passionate self-taught frontEnd web developer from Indi
 <a href="https://app.daily.dev/keshavashiya"><img src="https://github.com/keshavashiya/keshavashiya/blob/master/devcard.svg" width="400" alt="Keshav Ashiya's Dev Card"/></a>
 
 <!-- daily.dev BOOKMARKS:START -->
+- [donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.](https://app.daily.dev/posts/e33gGXZ2Z?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [System Design Series&#39; Articles](https://app.daily.dev/posts/GSgJ_l3DL?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [The Forty-Year Programmer](https://app.daily.dev/posts/4Xr-dPGrt?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [neovim ❤ elixir](https://app.daily.dev/posts/isc_Ab1Zb?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [How to build a &lpar;simple&rpar; blog using Rust](https://app.daily.dev/posts/UcARAj6Wj?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
-- [Restfox - Browser based HTTP client inspired by Insomnia and Postman](https://app.daily.dev/posts/7B89F1ZPL?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!-- <a href="https://github.com/keshavashiya/github-readme-stats">
