@@ -58,11 +58,11 @@ Hi, I'm Keshav Ashiya, a passionate self-taught frontEnd web developer from Indi
 <a href="https://app.daily.dev/keshavashiya"><img src="https://github.com/keshavashiya/keshavashiya/blob/master/devcard.svg" width="400" alt="Keshav Ashiya's Dev Card"/></a>
 
 <!-- daily.dev BOOKMARKS:START -->
+- [kuchin/awesome-cto: A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups](https://app.daily.dev/posts/Z9WrVqmEx?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [teaxyz/cli: the unified package manager &lpar;brew2&rpar;](https://app.daily.dev/posts/srUIymY0B?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [Level Up Your Productivity With Vim](https://app.daily.dev/posts/sthLn7qw8?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [Are you getting too old for software engineering?](https://app.daily.dev/posts/TINZ6MN5A?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [runvnc/dadsresume: My dad&#39;s resume and skills from 1980](https://app.daily.dev/posts/BG5ha53lI?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
-- [Introducing Turbopack: Rust-based successor to Webpack – Vercel](https://app.daily.dev/posts/UrAatdHSj?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!-- <a href="https://github.com/keshavashiya/github-readme-stats">
