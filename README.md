@@ -1,3 +1,6 @@
+[![DevCard](https://github.com/keshavashiya/keshavashiya/actions/workflows/main.yml/badge.svg)](https://github.com/keshavashiya/keshavashiya/actions/workflows/main.yml)
+[![daily.dev Bookmarks](https://github.com/keshavashiya/keshavashiya/actions/workflows/daily.dev-bookmarks.yml/badge.svg)](https://github.com/keshavashiya/keshavashiya/actions/workflows/daily.dev-bookmarks.yml)
+
 ### Hi there, I'm [Keshav Ashiya!](https://keshavashiya.github.io) 👋
 
 <a href="https://codesandbox.io/u/keshavashiya">
