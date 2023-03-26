@@ -61,11 +61,11 @@ Hi, I'm Keshav Ashiya, a passionate self-taught frontEnd web developer from Indi
 <a href="https://app.daily.dev/keshavashiya"><img src="https://github.com/keshavashiya/keshavashiya/blob/master/devcard.svg" width="400" alt="Keshav Ashiya's Dev Card"/></a>
 
 <!-- daily.dev BOOKMARKS:START -->
+- [GitHub repositories for TypeScript enthusiasts](https://app.daily.dev/posts/NliYTu4N5?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [Build a REST API with Express, TypeScript, and Deno](https://app.daily.dev/posts/4pCJOEhL6?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [The Best Engineering Blogs](https://app.daily.dev/posts/mvERSRL6d?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [Roll your own JavaScript runtime, pt. 2](https://app.daily.dev/posts/CaEbUlhka?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [Building a minimal Linux OS from source code 🏗](https://app.daily.dev/posts/te5MTwFJ0?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
-- [kuchin/awesome-cto: A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups](https://app.daily.dev/posts/Z9WrVqmEx?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!-- <a href="https://github.com/keshavashiya/github-readme-stats">
