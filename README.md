@@ -61,11 +61,11 @@ Hi, I'm Keshav Ashiya, a passionate self-taught frontEnd web developer from Indi
 <a href="https://app.daily.dev/keshavashiya"><img src="https://github.com/keshavashiya/keshavashiya/blob/master/devcard.svg" width="400" alt="Keshav Ashiya's Dev Card"/></a>
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Welcome to Comprehensive Rust 🦀](https://app.daily.dev/posts/p3kvLLaWe?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [Ghidra — A powerful Reverse Engineering Tool](https://app.daily.dev/posts/fxeeUanVG?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [Build a Rust API with Rocket, Diesel, and MySQL](https://app.daily.dev/posts/RnDqKnVYj?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [Rust Basics Series #1: Hello World Program in Rust](https://app.daily.dev/posts/7c5lCUaMO?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [Build a REST API with Express, TypeScript, and Deno, pt. 2](https://app.daily.dev/posts/QCrl9LrMs?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
-- [Reasons To Do a Startup](https://app.daily.dev/posts/YjF776gU9?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!-- <a href="https://github.com/keshavashiya/github-readme-stats">
