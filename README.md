@@ -61,11 +61,11 @@ Hi, I'm Keshav Ashiya, a passionate self-taught frontEnd web developer from Indi
 <a href="https://app.daily.dev/keshavashiya"><img src="https://github.com/keshavashiya/keshavashiya/blob/master/devcard.svg" width="400" alt="Keshav Ashiya's Dev Card"/></a>
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Why would you use Backend as a Service &lpar;BaaS&rpar;?](https://app.daily.dev/posts/lsjyhHAEQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [Learning Rust: Hello AWS](https://app.daily.dev/posts/z3UpWQ3Wd?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [Early Stage Startup Handbook](https://app.daily.dev/posts/yh1E2HQg3?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [Build a Cross-Platform CLI with Deno in 5 minutes](https://app.daily.dev/posts/qfc0udzv3?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [Stay SaaSy](https://app.daily.dev/posts/Sqfd2t0Xw?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
-- [Thinking in React Query](https://app.daily.dev/posts/49AaUCbMW?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!-- <a href="https://github.com/keshavashiya/github-readme-stats">
