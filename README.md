@@ -58,7 +58,7 @@ Hi, I'm Keshav Ashiya, a passionate self-taught frontEnd web developer from Indi
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavashiya&layout=compact&theme=radical&langs_count=6" />
 </div> -->
 
-<a href="https://app.daily.dev/keshavashiya"><img src="https://github.com/keshavashiya/keshavashiya/blob/master/devcard.svg?type=wide&r=to7" alt="Keshav Ashiya's Dev Card"/></a>
+<a href="https://app.daily.dev/keshavashiya"><img src="https://github.com/keshavashiya/keshavashiya/blob/master/devcard.png?type=wide&r=to7" alt="Keshav Ashiya's Dev Card"/></a>
 
 <!-- daily.dev BOOKMARKS:START -->
 - [Why would you use Backend as a Service &lpar;BaaS&rpar;?](https://app.daily.dev/posts/lsjyhHAEQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
