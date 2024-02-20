@@ -1,4 +1,4 @@
-[![DevCard](https://github.com/keshavashiya/keshavashiya/actions/workflows/main.yml/badge.svg)](https://github.com/keshavashiya/keshavashiya/actions/workflows/main.yml)
+[![DevCard](https://github.com/keshavashiya/keshavashiya/actions/workflows/DevCard.yml/badge.svg)](https://github.com/keshavashiya/keshavashiya/actions/workflows/DevCard.yml)
 [![daily.dev Bookmarks](https://github.com/keshavashiya/keshavashiya/actions/workflows/daily.dev-bookmarks.yml/badge.svg)](https://github.com/keshavashiya/keshavashiya/actions/workflows/daily.dev-bookmarks.yml)
 
 ### Hi there, I'm [Keshav Ashiya!](https://keshavashiya.github.io) 👋
