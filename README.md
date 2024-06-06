@@ -88,11 +88,11 @@ Hi, I'm Keshav Ashiya, a passionate self-taught web developer from India.
 <a href="https://app.daily.dev/keshavashiya"><img src="https://github.com/keshavashiya/keshavashiya/blob/master/devcard.png?type=wide&r=to7" alt="Keshav Ashiya's Dev Card"/></a>
 
 <!-- daily.dev BOOKMARKS:START -->
+- [sindresorhus/awesome-nodejs: :zap: Delightful Node.js packages and resources](https://app.daily.dev/posts/LMEtDTok6?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [Getting Started with Rust](https://app.daily.dev/posts/dqcdQCR2L?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [How we reduced our React monorepo CI time by 70%](https://app.daily.dev/posts/J1ClTfCFR?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [The Making of a Senior Engineer 💡: Guest Post by Addy Osmani](https://app.daily.dev/posts/KczwKgx2a?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [Why would you use Backend as a Service &lpar;BaaS&rpar;?](https://app.daily.dev/posts/lsjyhHAEQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
-- [Learning Rust: Hello AWS](https://app.daily.dev/posts/z3UpWQ3Wd?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!-- <a href="https://github.com/keshavashiya/github-readme-stats">
