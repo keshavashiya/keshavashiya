@@ -88,11 +88,11 @@ Hi, I'm Keshav Ashiya, a passionate self-taught web developer from India.
 <a href="https://app.daily.dev/keshavashiya"><img src="https://github.com/keshavashiya/keshavashiya/blob/master/devcard.png?type=wide&r=to7" alt="Keshav Ashiya's Dev Card"/></a>
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Learning JavaScript &amp; Typescripts Series&#39; Articles](https://app.daily.dev/posts/1Oxs0qY2X?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [Complete Guide to Building Authorization Systems using RBAC, ReBAC and ABAC](https://app.daily.dev/posts/zFMSrBTeY?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [🎉 Finally! Official launch of the Gowebly project on ProductHunt](https://app.daily.dev/posts/Di1MJjYXg?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [System Design — Tips. Designing a robust and scalable system…](https://app.daily.dev/posts/00mvstChC?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [mehdihadeli/awesome-software-architecture: 🚀 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.](https://app.daily.dev/posts/97Uz0WW3B?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
-- [sindresorhus/awesome-nodejs: :zap: Delightful Node.js packages and resources](https://app.daily.dev/posts/LMEtDTok6?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!-- <a href="https://github.com/keshavashiya/github-readme-stats">
