@@ -28,7 +28,7 @@
 [![DevCard](https://github.com/keshavashiya/keshavashiya/actions/workflows/DevCard.yml/badge.svg)](https://github.com/keshavashiya/keshavashiya/actions/workflows/DevCard.yml)
 [![daily.dev Bookmarks](https://github.com/keshavashiya/keshavashiya/actions/workflows/daily.dev-bookmarks.yml/badge.svg)](https://github.com/keshavashiya/keshavashiya/actions/workflows/daily.dev-bookmarks.yml)
 
-<!-- ### Hi there, I'm [Keshav Ashiya!](https://keshavashiya.github.io) 👋 --->
+<!-- ### Hi there, I'm [Keshav Ashiya!](https://keshavashiya.github.io) 👋
 
 <a href="https://codesandbox.io/u/keshavashiya">
   <img align="left" alt="Keshav Ashiya | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
@@ -38,10 +38,11 @@
 </a>
 <!-- <a href="https://discord.gg/9qXgzphsjH">
   <img align="left" alt="Keshav's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-</a> --->
+</a>
 
 <br />
-<br />
+<br /> --->
+
 
 👇 Hit in your console or terminal to connect with me.
 
@@ -50,13 +51,16 @@ npx keshavashiya
 ```
 **👆 This command line tool can be found at [npx keshavashiya](https://github.com/keshavashiya/npx_card)**
 
-Hi, I'm Keshav Ashiya, a passionate self-taught web developer from India.
+Hi, I'm Keshav Ashiya, a passionate self-taught Engineer from India. I'm a full-stack engineer with 5+ years of experience in building scalable enterprise applications, distributed systems, and workflow automation solutions. I specialize in designing microservices architectures, optimizing CI/CD pipelines, and developing high-performance web applications.
 
-- 🔭 I’m currently working on my project [covid19india](https://github.com/keshavashiya/covid19india-react)
-- 🌱 I’m currently learning Rust, GraphQL & Typescript
-- 👯 I’m looking to collaborate on [covid19india API](https://github.com/keshavashiya/api)
+🔧 Tech Stack & Expertise
+- Frontend: React, React Native, Redux, JavaScript, TypeScript, Electron
+- Backend: Node.js, Express.js, REST APIs, Microservices
+- DevOps & Cloud: Docker, Kubernetes, CI/CD (GitHub Actions), Kafka
+- Databases: MongoDB, PostgreSQL, MySQL, Redis
+- Other: Agile methodologies, System Design, Software Architecture, API Design
 - 💬 Ask me about anything [here](https://github.com/keshavashiya/keshavashiya/issues)
-
+<br />
 <!-- <a href="https://github.com/keshavashiya">
   <img align="center" src="https://github-trophy.vercel.app/?username=keshavashiya&theme=onedark" alt="Keshav's github trophy" />
 </a> -->
@@ -85,7 +89,7 @@ Hi, I'm Keshav Ashiya, a passionate self-taught web developer from India.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavashiya&layout=compact&theme=radical&langs_count=6" />
 </div> -->
 
-<a href="https://app.daily.dev/keshavashiya"><img src="https://github.com/keshavashiya/keshavashiya/blob/master/devcard.png?type=wide&r=to7" alt="Keshav Ashiya's Dev Card"/></a>
+<a href="https://app.daily.dev/keshavashiya"><img src="https://github.com/keshavashiya/keshavashiya/blob/master/devcard.png?type=wide&r=to7" alt=""/></a>
 
 <!-- daily.dev BOOKMARKS:START -->
 - [The 7 Most Influential Papers in Computer Science History](https://app.daily.dev/posts/iCf2u4Cdt?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
