@@ -92,11 +92,11 @@ Hi, I'm Keshav Ashiya, a passionate self-taught Engineer from India. I'm a full-
 <a href="https://app.daily.dev/keshavashiya"><img src="https://github.com/keshavashiya/keshavashiya/blob/master/devcard.png?type=wide&r=to7" alt=""/></a>
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Automate, Curate, Share: My Open Source Reading List Project](https://app.daily.dev/posts/uiDVu7GyD?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [The Ultimate Roadmap to Become a Data Engineer in 2025 &lpar;With Free Resources&rpar;](https://app.daily.dev/posts/CBcld4cHT?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [Build &amp; Sell n8n AI Agents &lpar;8+ Hour Course, No Code&rpar;](https://app.daily.dev/posts/DapUMoeAj?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [15 rust cli tools that will make you abandon bash scripts forever](https://app.daily.dev/posts/r6yaNkYL4?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [Multi-tenant SaaS apps with Next.js and Vercel](https://app.daily.dev/posts/2weGGGQAK?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
-- [No title](https://app.daily.dev/posts/0MRZR2Nfd?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!-- <a href="https://github.com/keshavashiya/github-readme-stats">
