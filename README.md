@@ -92,11 +92,11 @@ Hi, I'm Keshav Ashiya, a passionate self-taught Engineer from India. I'm a full-
 <a href="https://app.daily.dev/keshavashiya"><img src="https://github.com/keshavashiya/keshavashiya/blob/master/devcard.png?type=wide&r=to7" alt=""/></a>
 
 <!-- daily.dev BOOKMARKS:START -->
+- [No title](https://app.daily.dev/posts/cotvtxGGK?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [No title](https://app.daily.dev/posts/dEcoUCCf4?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [No title](https://app.daily.dev/posts/KB42npGNW?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [How to Design Structured Database Systems Using SQL [Full Book]](https://app.daily.dev/posts/YN4j7TWL0?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [No title](https://app.daily.dev/posts/abWUsXD2t?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
-- [jackjackbits/bitchat: bluetooth mesh chat, IRC vibes](https://app.daily.dev/posts/zR9B0rI7P?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!-- <a href="https://github.com/keshavashiya/github-readme-stats">
