@@ -92,11 +92,11 @@ Hi, I'm Keshav Ashiya, a passionate self-taught Engineer from India. I'm a full-
 <a href="https://app.daily.dev/keshavashiya"><img src="https://github.com/keshavashiya/keshavashiya/blob/master/devcard.png?type=wide&r=to7" alt=""/></a>
 
 <!-- daily.dev BOOKMARKS:START -->
+- [1/30 Days System Design Question](https://app.daily.dev/posts/0xbMYYU5C?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [What&#39;s new in Expo SDK 56](https://app.daily.dev/posts/Gab9nzpgs?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [Google&#39;s Googlebooks laptops bring AI-powered cursor and Android integration to challenge Microsoft&#39;s Copilot+ PCs](https://app.daily.dev/posts/60Qr9O3OW?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [Google&#39;s Android announcements: Gemini agents, Android Auto redesign, Googlebooks, and more](https://app.daily.dev/posts/6ts0KfvWd?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [No title](https://app.daily.dev/posts/DUvyIXxeu?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
-- [Postgres hits 144K writes/second in benchmarks, Honker brings durable queues into SQLite](https://app.daily.dev/posts/I0J4PPEh1?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!-- <a href="https://github.com/keshavashiya/github-readme-stats">
