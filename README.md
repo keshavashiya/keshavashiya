@@ -92,11 +92,11 @@ Hi, I'm Keshav Ashiya, a passionate self-taught Engineer from India. I'm a full-
 <a href="https://app.daily.dev/keshavashiya"><img src="https://github.com/keshavashiya/keshavashiya/blob/master/devcard.png?type=wide&r=to7" alt=""/></a>
 
 <!-- daily.dev BOOKMARKS:START -->
-- [In 3 more days, the **C++: The Documentary** is coming out its going to be epic! From the early days at BellLabs, the STL innovation, the stagnation, and revival, the committee disputes, particle accelerators, games, and quant trading. Stay tuned](https://app.daily.dev/posts/DF0u9NN6g?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [No title](https://app.daily.dev/posts/YRkTCZOgu?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [Microsoft ships native Linux coreutils for Windows, built on Rust](https://app.daily.dev/posts/ggfO0iZH5?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [25/30 Days System Design Questions!](https://app.daily.dev/posts/y5ejS24iw?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [21/30 Days System Design Questions!](https://app.daily.dev/posts/hMYXFHfUx?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
+- [17/30 Days System Design Questions!](https://app.daily.dev/posts/ZBRFljn8C?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!-- <a href="https://github.com/keshavashiya/github-readme-stats">
