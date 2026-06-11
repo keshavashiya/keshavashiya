@@ -92,11 +92,11 @@ Hi, I'm Keshav Ashiya, a passionate self-taught Engineer from India. I'm a full-
 <a href="https://app.daily.dev/keshavashiya"><img src="https://github.com/keshavashiya/keshavashiya/blob/master/devcard.png?type=wide&r=to7" alt=""/></a>
 
 <!-- daily.dev BOOKMARKS:START -->
+- [29/60 Days System Design Questions!](https://app.daily.dev/posts/FC21nqchq?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
+- [Claude Fable 5 launches as Anthropic&#39;s first public Mythos-class model](https://app.daily.dev/posts/RRAWKi1F8?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
+- [35/60 Days System Design Questions](https://app.daily.dev/posts/HFSBNX4NI?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [33/60 Days System Design Questions](https://app.daily.dev/posts/EMnXrcVUC?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [How CockroachDB Built Vector Indexing at Scale](https://app.daily.dev/posts/CTSjJ6QG0?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
-- [Brave launches Brave Origin, a $60 browser that removes features from the free version](https://app.daily.dev/posts/duMwKb7Lp?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
-- [30/60 Days System Design Questions!](https://app.daily.dev/posts/IglUGECOm?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
-- [No title](https://app.daily.dev/posts/YRkTCZOgu?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!-- <a href="https://github.com/keshavashiya/github-readme-stats">
