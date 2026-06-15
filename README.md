@@ -92,11 +92,11 @@ Hi, I'm Keshav Ashiya, a passionate self-taught Engineer from India. I'm a full-
 <a href="https://app.daily.dev/keshavashiya"><img src="https://github.com/keshavashiya/keshavashiya/blob/master/devcard.png?type=wide&r=to7" alt=""/></a>
 
 <!-- daily.dev BOOKMARKS:START -->
-- [29/60 Days System Design Questions!](https://app.daily.dev/posts/FC21nqchq?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
-- [Claude Fable 5 launches as Anthropic&#39;s first public Mythos-class model](https://app.daily.dev/posts/RRAWKi1F8?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
-- [35/60 Days System Design Questions](https://app.daily.dev/posts/HFSBNX4NI?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
-- [33/60 Days System Design Questions](https://app.daily.dev/posts/EMnXrcVUC?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
-- [How CockroachDB Built Vector Indexing at Scale](https://app.daily.dev/posts/CTSjJ6QG0?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
+- [34/60 Days System Design Questions](https://app.daily.dev/posts/w3oHw6r7D?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
+- [Software Is Made Between Commits — Zed&#39;s Blog](https://app.daily.dev/posts/85az94983?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
+- [2/30 Days System Design Questions!](https://app.daily.dev/posts/bT4wXCdDI?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
+- [12/30 Days System Design Questions!](https://app.daily.dev/posts/IEbSWke3K?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
+- [8/30 Days System Design Questions!](https://app.daily.dev/posts/V5UPaGnwH?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!-- <a href="https://github.com/keshavashiya/github-readme-stats">
