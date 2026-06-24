@@ -92,11 +92,11 @@ Hi, I'm Keshav Ashiya, a passionate self-taught Engineer from India. I'm a full-
 <a href="https://app.daily.dev/keshavashiya"><img src="https://github.com/keshavashiya/keshavashiya/blob/master/devcard.png?type=wide&r=to7" alt=""/></a>
 
 <!-- daily.dev BOOKMARKS:START -->
+- [I Finally Tried Niri, The New Way Of Tiling Linux Users Are Going Crazy About](https://daily.dev/posts/fOAXKbWOK?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [45/60 Days System Design Questions!](https://daily.dev/posts/rTKoJkSa7?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [43/60 Days System Design Questions](https://daily.dev/posts/YBlb9na0v?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [47/60 Days System Design Questions](https://daily.dev/posts/yC3njLPDc?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [41/60 Days System Design Questions](https://daily.dev/posts/bqY6sMtEH?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
-- [34/60 Days System Design Questions](https://daily.dev/posts/w3oHw6r7D?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 <!-- daily.dev BOOKMARKS:END -->
 
 <!-- <a href="https://github.com/keshavashiya/github-readme-stats">
