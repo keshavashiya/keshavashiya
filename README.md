@@ -56,9 +56,9 @@ Hi, I'm Keshav Ashiya, an Engineer from India and currently Head of Engineering 
 <a href="https://app.daily.dev/keshavashiya"><img src="https://github.com/keshavashiya/keshavashiya/blob/master/devcard.png?type=wide&r=to7" alt=""/></a>
 
 <!-- daily.dev BOOKMARKS:START -->
-- [59/60 Days System Design Questions](https://daily.dev/posts/HeDTbJxre?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
-- [56/60 Days System Design Questions](https://daily.dev/posts/wpHLUknI9?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
-- [58/60 Days System Design Questions](https://daily.dev/posts/lH1uwx8ad?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
-- [57/60 Days System Design Questions](https://daily.dev/posts/nIduaYOTF?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
-- [50/60 Days System Design Questions](https://daily.dev/posts/lkFOjT85T?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
+- [No title](https://daily.dev/posts/ZAgnOt354?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
+- [Cursor launches iOS app for managing coding agents remotely](https://daily.dev/posts/V1LaAqAp1?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
+- [CVE-2026-48931 Shouldn&#39;t Have Been a CVE](https://daily.dev/posts/vsmdypF65?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
+- [Claude Fable 5 Is Back — With Tighter Cyber Guardrails](https://daily.dev/posts/5BwTZ7gnd?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
+- [No title](https://daily.dev/posts/4k8mqv5Aa?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 <!-- daily.dev BOOKMARKS:END -->
