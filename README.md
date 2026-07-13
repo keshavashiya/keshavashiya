@@ -56,9 +56,9 @@ Hi, I'm Keshav Ashiya, an Engineer from India and currently Head of Engineering 
 <a href="https://app.daily.dev/keshavashiya"><img src="https://github.com/keshavashiya/keshavashiya/blob/master/devcard.png?type=wide&r=to7" alt=""/></a>
 
 <!-- daily.dev BOOKMARKS:START -->
+- [No title](https://daily.dev/posts/zHm0QcAEP?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
+- [Free e-book with 60 scenario-based system design interview questions](https://daily.dev/posts/5Mpw8IEfC?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
+- [Agentic Tip #6: Use Fable as an architect](https://daily.dev/posts/MvT00KJCL?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [No title](https://daily.dev/posts/2NM4ustNt?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [A new HTTP method called **QUERY** was standardized in **June 2026 &lpar;RFC 10008&rpar;**. It fills the long-standing gap between **GET** and **POST** for **read-only operations that require a request body**.](https://daily.dev/posts/AQ9tUPYyH?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
-- [No title](https://daily.dev/posts/ZAgnOt354?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
-- [Cursor launches iOS app for managing coding agents remotely](https://daily.dev/posts/V1LaAqAp1?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
-- [CVE-2026-48931 Shouldn&#39;t Have Been a CVE](https://daily.dev/posts/vsmdypF65?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 <!-- daily.dev BOOKMARKS:END -->
