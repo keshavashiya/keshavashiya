@@ -56,9 +56,9 @@ Hi, I'm Keshav Ashiya, an Engineer from India and currently Head of Engineering 
 <a href="https://app.daily.dev/keshavashiya"><img src="https://github.com/keshavashiya/keshavashiya/blob/master/devcard.png?type=wide&r=to7" alt=""/></a>
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Mira Murati&#39;s first model is a bet that customizable AI beats centralized AI](https://daily.dev/posts/hBOLH6dMv?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [DuckDuckGo browser now blocks YouTube video ads](https://daily.dev/posts/v7X8v6gIO?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [Why developers are ditching GitHub for Codeberg and self-hosting alternatives](https://daily.dev/posts/0Ah7apnuH?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [Architecture Decisions Behind Building a Simple Personal Software Tool](https://daily.dev/posts/piWLYEZW4?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [No title](https://daily.dev/posts/zHm0QcAEP?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
-- [Free e-book with 60 scenario-based system design interview questions](https://daily.dev/posts/5Mpw8IEfC?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 <!-- daily.dev BOOKMARKS:END -->
