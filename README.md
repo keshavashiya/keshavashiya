@@ -56,9 +56,9 @@ Hi, I'm Keshav Ashiya, an Engineer from India and currently Head of Engineering 
 <a href="https://app.daily.dev/keshavashiya"><img src="https://github.com/keshavashiya/keshavashiya/blob/master/devcard.png?type=wide&r=to7" alt=""/></a>
 
 <!-- daily.dev BOOKMARKS:START -->
+- [No title](https://daily.dev/posts/rrHWfSVjd?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [Elon Musk says X will open source its entire codebase after a security review](https://daily.dev/posts/5y7se71kX?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [No title](https://daily.dev/posts/IalIYiGDh?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [React Folder Structure for Beginners: The Folder Organization That Finally Made Sense to Me](https://daily.dev/posts/UvKbiLACO?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [Mira Murati&#39;s first model is a bet that customizable AI beats centralized AI](https://daily.dev/posts/hBOLH6dMv?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
-- [DuckDuckGo browser now blocks YouTube video ads](https://daily.dev/posts/v7X8v6gIO?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 <!-- daily.dev BOOKMARKS:END -->
