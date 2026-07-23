@@ -56,9 +56,9 @@ Hi, I'm Keshav Ashiya, an Engineer from India and currently Head of Engineering 
 <a href="https://app.daily.dev/keshavashiya"><img src="https://github.com/keshavashiya/keshavashiya/blob/master/devcard.png?type=wide&r=to7" alt=""/></a>
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Day 1/30 AWS System Design Patterns](https://daily.dev/posts/mKHCeCn0Y?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
+- [No title](https://daily.dev/posts/69jsfgJ8Y?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
+- [Day 2/30 AWS System Design Patterns](https://daily.dev/posts/ryWf9jVWD?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [Qwen 3.8 Max preview benchmarks, Ollama raises $88M](https://daily.dev/posts/53k9hBoDt?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [Kimi K3 could be the largest open-weight model ever, and it drops tonight](https://daily.dev/posts/Z0FdmiGee?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
-- [GitHub - waaldev/waldi: A quiet place to write, and to be read.](https://daily.dev/posts/yfBD1IAOh?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
-- [In-House LLM Serving at Netflix](https://daily.dev/posts/yh81G6jww?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
-- [Redis creator&#39;s local LLM runner is quietly becoming a real inference server](https://daily.dev/posts/PMfzRAZGE?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 <!-- daily.dev BOOKMARKS:END -->
