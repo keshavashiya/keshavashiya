@@ -56,9 +56,9 @@ Hi, I'm Keshav Ashiya, an Engineer from India and currently Head of Engineering 
 <a href="https://app.daily.dev/keshavashiya"><img src="https://github.com/keshavashiya/keshavashiya/blob/master/devcard.png?type=wide&r=to7" alt=""/></a>
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Shiki - Your notes.Your terminal.Actually yours.](https://daily.dev/posts/pGfFDAkc2?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
+- [Day 2/30 — Keep Controllers Thin](https://daily.dev/posts/mM5mTroVs?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
+- [Day 1/30 — Why NestJS?](https://daily.dev/posts/K5lciLXO1?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [Day 7/30 AWS System Design Patterns](https://daily.dev/posts/y9zUAJ1At?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [Day 4/30 AWS System Design Patterns](https://daily.dev/posts/K4ImSZ9cn?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
-- [Day 6/30 AWS System Design Patterns](https://daily.dev/posts/c2sY3vziQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
-- [Day 5/30 AWS System Design Patterns](https://daily.dev/posts/ZTC1TFJ43?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
-- [Day 1/30 AWS System Design Patterns](https://daily.dev/posts/mKHCeCn0Y?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 <!-- daily.dev BOOKMARKS:END -->
