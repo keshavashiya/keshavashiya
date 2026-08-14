@@ -56,9 +56,9 @@ Hi, I'm Keshav Ashiya, an Engineer from India and currently Head of Engineering 
 <a href="https://app.daily.dev/keshavashiya"><img src="https://github.com/keshavashiya/keshavashiya/blob/master/devcard.png?type=wide&r=to7" alt=""/></a>
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Day 18/30 AWS System Design Patterns](https://daily.dev/posts/Had3NJxtb?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
+- [Day 19/30 AWS System Design Patterns](https://daily.dev/posts/bAMC3lvMS?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
+- [Day 11/30 — Soft Delete with Care](https://daily.dev/posts/tYS2kHXCo?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [Day 20/30 AWS System Design Patterns](https://daily.dev/posts/s6EnaX5Zx?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [No title](https://daily.dev/posts/3ngiutICq?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
-- [Day 21/30 AWS System Design Patterns](https://daily.dev/posts/NRY1BDj8q?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
-- [GitHub - AntigmaLabs/ante: Ghost in your shell. Ante is a self-contained agent harness with a highly optimized core. It works like Claude Code or Codex, with none of their dependencies or model constr](https://daily.dev/posts/ZSC0maucx?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
-- [Day 16/30 AWS System Design Patterns](https://daily.dev/posts/qS6NCB15o?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 <!-- daily.dev BOOKMARKS:END -->
