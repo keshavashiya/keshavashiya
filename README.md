@@ -56,9 +56,9 @@ Hi, I'm Keshav Ashiya, an Engineer from India and currently Head of Engineering 
 <a href="https://app.daily.dev/keshavashiya"><img src="https://github.com/keshavashiya/keshavashiya/blob/master/devcard.png?type=wide&r=to7" alt=""/></a>
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Holding Revamp Went Live. Then Reality Check Hit Hard](https://daily.dev/posts/r7OsgHTg4?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
+- [No title](https://daily.dev/posts/NbVEqlc0x?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
+- [Day 22/30 AWS System Design Patterns](https://daily.dev/posts/2YuqGxiYV?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [Day 18/30 AWS System Design Patterns](https://daily.dev/posts/Had3NJxtb?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [Day 19/30 AWS System Design Patterns](https://daily.dev/posts/bAMC3lvMS?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
-- [Day 11/30 — Soft Delete with Care](https://daily.dev/posts/tYS2kHXCo?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
-- [Day 20/30 AWS System Design Patterns](https://daily.dev/posts/s6EnaX5Zx?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
-- [No title](https://daily.dev/posts/3ngiutICq?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 <!-- daily.dev BOOKMARKS:END -->
