@@ -56,9 +56,9 @@ Hi, I'm Keshav Ashiya, an Engineer from India and currently Head of Engineering 
 <a href="https://app.daily.dev/keshavashiya"><img src="https://github.com/keshavashiya/keshavashiya/blob/master/devcard.png?type=wide&r=to7" alt=""/></a>
 
 <!-- daily.dev BOOKMARKS:START -->
+- [terminal-code](https://daily.dev/posts/90hb0NeVt?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [Day 25/30 AWS System Design Patterns](https://daily.dev/posts/rvhckQyqm?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [No title](https://daily.dev/posts/zPmr722Cq?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [System Design Explained: APIs, Databases, Caching, CDNs, Load Balancing &amp; Production Infra](https://daily.dev/posts/jfJ7Yd9xk?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [Domain-Driven Design matters more when AI writes your code](https://daily.dev/posts/mAzbsxiUg?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
-- [Holding Revamp Went Live. Then Reality Check Hit Hard](https://daily.dev/posts/r7OsgHTg4?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 <!-- daily.dev BOOKMARKS:END -->
