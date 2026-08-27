@@ -56,9 +56,11 @@ Hi, I'm Keshav Ashiya, an Engineer from India and currently Head of Engineering 
 <a href="https://app.daily.dev/keshavashiya"><img src="https://github.com/keshavashiya/keshavashiya/blob/master/devcard.png?type=wide&r=to7" alt=""/></a>
 
 <!-- daily.dev BOOKMARKS:START -->
-- [No title](https://daily.dev/posts/uMVF9J8Fc?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
-- [Skills For Real Engineers: How to Keep Claude Code and AI Tools From Ruining Your Architecture](https://daily.dev/posts/22u3jffNo?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
-- [Is AI going to steal my job as a design engineer?](https://daily.dev/posts/QFTVKmF5z?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
-- [The AI-Native SDLC Playbook by Anthropic for Developers!](https://daily.dev/posts/6rsCcGpZn?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
-- [Day 24/30 — Profile Before Optimising](https://daily.dev/posts/pun5MDgRz?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
+- [Built this to replace my personal tracking spreadsheets. No backend, no signup — data stays in your browser.
+
+What do you still track in spreadsheets that deserves a proper app?](https://daily.dev/posts/XjhJvvizq?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
+- [No title](https://daily.dev/posts/faI8S2EDa?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
+- [No title](https://daily.dev/posts/WHpUjfk9a?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
+- [gRPC-Rust Roadmap](https://daily.dev/posts/JhGIAf4vu?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
+- [No title](https://daily.dev/posts/e9QcZtvSH?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 <!-- daily.dev BOOKMARKS:END -->
