@@ -56,11 +56,9 @@ Hi, I'm Keshav Ashiya, an Engineer from India and currently Head of Engineering 
 <a href="https://app.daily.dev/keshavashiya"><img src="https://github.com/keshavashiya/keshavashiya/blob/master/devcard.png?type=wide&r=to7" alt=""/></a>
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Day 29/30 AWS System Design Patterns](https://daily.dev/posts/00fF6RtH4?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
+- [Meet World: the 3D place your reading builds](https://daily.dev/posts/W3ts5p7yS?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
+- [No title](https://daily.dev/posts/6xQ0a75YD?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [Day 27/30 AWS System Design Patterns](https://daily.dev/posts/ZshlHvRvq?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [How we saved 100 terabytes of memory by optimizing 1.1.1.1’s DNS cache](https://daily.dev/posts/UdwQ79LxW?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
-- [No title](https://daily.dev/posts/NlDkpi0ti?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
-- [Built this to replace my personal tracking spreadsheets. No backend, no signup — data stays in your browser.
-
-What do you still track in spreadsheets that deserves a proper app?](https://daily.dev/posts/XjhJvvizq?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
-- [No title](https://daily.dev/posts/faI8S2EDa?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 <!-- daily.dev BOOKMARKS:END -->
