@@ -56,9 +56,9 @@ Hi, I'm Keshav Ashiya, an Engineer from India and currently Head of Engineering 
 <a href="https://app.daily.dev/keshavashiya"><img src="https://github.com/keshavashiya/keshavashiya/blob/master/devcard.png?type=wide&r=to7" alt=""/></a>
 
 <!-- daily.dev BOOKMARKS:START -->
-- [No title](https://daily.dev/posts/bXi3sAGRX?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
-- [No title](https://daily.dev/posts/HbyPu1fbZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
-- [No title](https://daily.dev/posts/3V4yF7xc4?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
-- [PostgreSQL 19 is here.](https://daily.dev/posts/A1QOQTfMT?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
-- [CS degrees dropped low-level programming and the industry is noticing](https://daily.dev/posts/vyrRxPneQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
+- [Vincent 0.10.0: Less Hype, More Reliability for Agentic Development](https://daily.dev/posts/i5EP9vNAL?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
+- [Built for AI agents, not just you.](https://daily.dev/posts/erwx3DPd2?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
+- [How We Deployed, Maintained, and Migrated Production n8n on EKS](https://daily.dev/posts/w5wOmbYN3?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
+- [Daily.snek - Python SDK for Daily.dev API](https://daily.dev/posts/c1HTD0B7y?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
+- [Rendering huge pull requests in the GitHub Copilot app](https://daily.dev/posts/Z4AndgcGu?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 <!-- daily.dev BOOKMARKS:END -->
