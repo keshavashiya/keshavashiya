@@ -56,9 +56,9 @@ Hi, I'm Keshav Ashiya, an Engineer from India and currently Head of Engineering 
 <a href="https://app.daily.dev/keshavashiya"><img src="https://github.com/keshavashiya/keshavashiya/blob/master/devcard.png?type=wide&r=to7" alt=""/></a>
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Announcing Tauri 2.12](https://daily.dev/posts/ZLxUqEYKa?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
+- [Advice to a beginning software engineer](https://daily.dev/posts/nkV09W80e?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
+- [The Python documentation is now available in German](https://daily.dev/posts/c1d2Hvwi4?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [Vincent 0.10.0: Less Hype, More Reliability for Agentic Development](https://daily.dev/posts/i5EP9vNAL?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [Built for AI agents, not just you.](https://daily.dev/posts/erwx3DPd2?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
-- [How We Deployed, Maintained, and Migrated Production n8n on EKS](https://daily.dev/posts/w5wOmbYN3?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
-- [Daily.snek - Python SDK for Daily.dev API](https://daily.dev/posts/c1HTD0B7y?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
-- [Rendering huge pull requests in the GitHub Copilot app](https://daily.dev/posts/Z4AndgcGu?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 <!-- daily.dev BOOKMARKS:END -->
