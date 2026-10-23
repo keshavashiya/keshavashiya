@@ -56,9 +56,9 @@ Hi, I'm Keshav Ashiya, an Engineer from India and currently Head of Engineering 
 <a href="https://app.daily.dev/keshavashiya"><img src="https://github.com/keshavashiya/keshavashiya/blob/master/devcard.png?type=wide&r=to7" alt=""/></a>
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Show HN: WhatsApp MCP running free on Cloudflare](https://daily.dev/posts/S0LJvWdh9?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
+- [Jev replaces embeddings in GPT Researcher&#39;s RAG pipeline, with a 0.8 threshold in use elsewhere](https://daily.dev/posts/8pBbWMQuT?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
+- [OpenAI CLI](https://daily.dev/posts/WPTQ9BGlf?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [No title](https://daily.dev/posts/9mLzdcdiE?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [Perplexity Computer adds a fully local mode on the Mac](https://daily.dev/posts/GmcXI4XZB?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
-- [Any window from your Mac, on your iPhone and iPad](https://daily.dev/posts/K7Qi0bK3z?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
-- [Day 9/30 Real-World DevOps Problems](https://daily.dev/posts/EugDiSbKp?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
-- [Learn How to Design Software Systems Like a Senior Engineer in Our New Course](https://daily.dev/posts/esOEV78M2?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 <!-- daily.dev BOOKMARKS:END -->
