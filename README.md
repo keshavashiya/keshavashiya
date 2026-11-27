@@ -56,9 +56,9 @@ Hi, I'm Keshav Ashiya, an Engineer from India and currently Head of Engineering 
 <a href="https://app.daily.dev/keshavashiya"><img src="https://github.com/keshavashiya/keshavashiya/blob/master/devcard.png?type=wide&r=to7" alt=""/></a>
 
 <!-- daily.dev BOOKMARKS:START -->
+- [GitHub - malachi-hq/malachi: Open source distributed log storage in Elixir, an independent implementation inspired by the public design of LinkedIn&#39;s NorthGuard. Not affiliated with LinkedIn.](https://daily.dev/posts/xr3LgRxK3?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
+- [I was tired to be forced to use Claude Code if i wanted two agents to communicate natively, so I reverse engineered sendMessage and now my omp agents can talk directly to Claude Code, and my hooks can inject messages into a session!](https://daily.dev/posts/nwbrGM6tb?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
+- [miniPG: a real Postgres in a single binary, used like sqlite3](https://daily.dev/posts/cpFbaYwt5?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [5 ESP32 projects that can run on batteries for a whole year](https://daily.dev/posts/gBKZGuv9E?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 - [Graph Theory for Visual Learners](https://daily.dev/posts/gm03SDa2V?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
-- [Pwn.college](https://daily.dev/posts/jM6FkoqAv?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
-- [Track CVEs from your terminal: live updates from NVD, CISA KEV, and EPSS](https://daily.dev/posts/UwpEddHct?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
-- [No title](https://daily.dev/posts/68P6dFSym?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61)
 <!-- daily.dev BOOKMARKS:END -->
